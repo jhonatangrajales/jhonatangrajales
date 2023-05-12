@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a software development student at the Unicatolic University, I currently work supporting applications for the company Mes de Occidente, I like to share time with my family in my spare time. The experience in application support has taught me to have better communication with my work team and perform better in public speaking since I have to carry out training.
 <!--
 **jhonatangrajales/jhonatangrajales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
